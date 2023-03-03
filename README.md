@@ -3,7 +3,7 @@ Spammer notification service
 
 # Requirements
 
-      * Install Go 1.16+ 
+      * Install Go 1.16+
       * Update slack url and channel value on config.json file 
           
 # Running Locally
@@ -32,5 +32,5 @@ Spammer notification service
 
 # Invoke notification endpoint 
 
-    Please refer below postman doc 
-    https://documenter.getpostman.com/view/14684255/2s93CUJArb
+    Please refer below postman doc
+    - https://documenter.getpostman.com/view/14684255/2s93CUJArb
