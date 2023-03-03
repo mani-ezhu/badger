@@ -1,0 +1,7 @@
+{
+    "slack": {
+		"url": "https://hooks.slack.com/services/T0A84MD7A/B040RTXUPB0/dummy",
+		"username": "SPAMMER",
+		"channel": "#dummy-channel"
+	}
+}
