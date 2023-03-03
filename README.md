@@ -5,6 +5,8 @@ Spammer notification service
 
       * Install Go 1.16+ 
       * Update slack url and channel value on config.json file 
+      <img width="683" alt="image" src="https://user-images.githubusercontent.com/74706264/222638733-19c5f472-2ec1-40ff-b751-ea476b583911.png">
+      
 # Running Locally
       
     # step 1 : please run below cmd inside project 
@@ -13,7 +15,11 @@ Spammer notification service
      
        cmd 2 : go run main.go 
 
-       if any dependency error comes please install respective package using go get <package name> cmd and run below cmd 
+       if any dependency error comes please install respective package using 
+        
+       go get <package name> 
+       
+       then 
 
        go mod vendor 
          
