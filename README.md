@@ -5,9 +5,7 @@ Spammer notification service
 
       * Install Go 1.16+ 
       * Update slack url and channel value on config.json file 
-      <img width="534" alt="image" src="https://user-images.githubusercontent.com/74706264/222638949-f48576ec-e7ff-4b2f-ae9a-d42265dbce48.png">
-
-      
+          
 # Running Locally
       
     # step 1 : please run below cmd inside project 
@@ -32,4 +30,7 @@ Spammer notification service
 
          http://localhost:8000/
 
+# Invoke notification endpoint 
 
+    Please refer below postman doc 
+    https://documenter.getpostman.com/view/14684255/2s93CUJArb
